@@ -50,7 +50,7 @@ I am very gratefull that others contributed sharing their knowledge and help me 
 
 A special thanks to: 
  - Arunoda Susiripala whose proposed the authentication flow with a custom backend and shared a complete youtube video tutorial. 
-   - [Click here to check the video](https://rysea.com.br/).
+   - [Click here to check the video](https://www.youtube.com/watch?v=k1HdzwHh7RY&list=WL&index=1&t=4988s).
    - [Tutorial document](https://arunoda.me/blog/add-auth-support-to-a-next-js-app-with-a-custom-backend)
  - ejirocodes thats create a clear example of next-auth and share his project in github.
    - [link for next-auth exemple by ejirocodes](https://github.com/ejirocodes/Nextjs_Authentication)
