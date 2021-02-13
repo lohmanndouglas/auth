@@ -20,8 +20,10 @@ export default function Header () {
       <Link href='/'>
         <a className='logo'>NextAuth.js</a>
       </Link>
+      <p>
         {session && <a href="#" onClick={handleSignout} className="btn-signin">Sign out</a>  } 
         {!session && <a href="#" onClick={handleSignin}  className="btn-signin">Sign in</a>  }
+      </p>
     </div>
   )
 }
